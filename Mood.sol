@@ -1,3 +1,6 @@
+// write this in remix ide, select injected web3 as enviornment for deploy to connect 
+// to metamask wallet and then deploy
+
 // SPDX-License-Identifier: GPL-3.0
 
 pragma solidity ^0.8.4;
