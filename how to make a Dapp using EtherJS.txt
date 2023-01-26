@@ -1,0 +1,19 @@
+1-> write the contract in solidity in remix ide.
+
+2-> use the Injected Provider - MetaMask as enviornment for deployment of the contract
+
+3-> deploy the contract and pay gas fee on metamask
+
+4-> you can use this deployed contract now.
+
+5->Import the Ethers.js source into your index.html page inside a new set of script tags:
+
+6->Inside the script tag, import the contract ABI and specify the contract address on our provider's blockchain
+
+7->Define an ethers provider. In our case it is Goerli:
+
+8->Request access to the user's wallet and connect the signer to your metamask account (we use [0] as the default), and define the contract object using your contract address, ABI, and signer
+
+9->Create asynchronous functions getmood and setmood to call your smart contract functions
+
+10-> ho gaya Dapp create , njoi bois, star kardena repo
